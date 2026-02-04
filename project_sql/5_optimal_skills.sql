@@ -1,3 +1,4 @@
+
 SELECT
     skills_dim.skill_id,
     skills_dim.skills,
